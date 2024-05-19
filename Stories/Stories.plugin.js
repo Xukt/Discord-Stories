@@ -1,6 +1,6 @@
 /**
  * @name DiscordStories
- * @version 1.0.0 Alpha
+ * @version 1.0.1 Alpha
  * @description A plugin to add Snapchat-like stories to Discord. (THIS IS IN VERY VERY EARLY STAGES AND A LOT OF BUGS ARE EXPECTED!)
  * @github https://github.com/Xukt/Discord-Stories
  * @author xkt
