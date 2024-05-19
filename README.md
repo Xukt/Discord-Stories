@@ -1,14 +1,6 @@
                      
 <h1 align="center" style="font-weight: bold;">Discord Stories</h1>
 
-<p align="center">
-<a href="#tech">Technologies</a>
-<a href="#started">Getting Started</a>
-<a href="#routes">API Endpoints</a>
-<a href="#colab">Collaborators</a>
-<a href="#contribute">Contribute</a> 
-</p>
-
 
 <p align="center">A little like Snapchat stories but for Discord (Only downside is that everyone will see your story!)</p>
 
